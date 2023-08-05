@@ -89,5 +89,5 @@ form > input:last-child {
 }
 
 .terms > strong {
-    font: hsl(0, 64%, 41%);
+    color: hsl(0, 64%, 41%);
 }
